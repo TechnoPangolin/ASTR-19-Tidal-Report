@@ -1,1 +1,7 @@
 .ipynb_checkpoints/
+.test*
+test hist.png
+Test Regression Notebook.ipynb
+test_1 coefficient.png
+test_10 coefficient.png
+*.orig
